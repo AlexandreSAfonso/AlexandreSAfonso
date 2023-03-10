@@ -20,14 +20,12 @@
  
  <br>
  
-
- 
 <div> 
-  <a href="" target="https://www.youtube.com/channel/UC7J18oKMcmC54vNjRPzg2Sg"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="https://www.youtube.com/channel/UC7J18oKMcmC54vNjRPzg2Sg"></a>
-  <a href="" target="https://www.instagram.com/a.s.afonso/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="https://www.instagram.com/a.s.afonso/"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="	afonso.s.alexandre@gmail.com"></a> 
-  <a href=""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="afonso.s.alexandre@gmail.com"></a>
-  <a href="" target="https://www.linkedin.com/in/alexandresafonso"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="https://www.linkedin.com/in/alexandresafonso"></a> 
+  <a href="https://www.youtube.com/channel/UC7J18oKMcmC54vNjRPzg2Sg" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/a.s.afonso/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://discord.gg/NzaxEuhN5n" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+  <a href="mailto:afonso.s.alexandre@gmail.com?subject=Contact from github.com: &bcc=badbass55@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target=""></a>
+  <a href="https://www.linkedin.com/in/alexandresafonso" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/AlexandreSAfonso/AlexandreSAfonso/blob/output/github-contribution-grid-snake.svg)
 
