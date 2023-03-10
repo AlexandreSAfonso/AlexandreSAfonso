@@ -29,9 +29,7 @@
 
 
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/26529165?v=4" align="center" alt="GitHub Readme Stats" />
- <h2 align="center">GitHub Readme Stats</h2>
- <p align="center">Get dynamically generated GitHub stats on your READMEs!</p>
+ <img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" data-hovercard-type="achievement" data-hovercard-url="/users/AlexandreSAfonso/achievements/pull-shark/detail?hovercard=1" width="64" alt="Achievement: Pull Shark" data-view-component="true" class="achievement-badge-sidebar">
 </p>
   <p align="center">
     <a href="https://github.com/AlexandreSAfonso/github-readme-stats/actions">
@@ -95,35 +93,26 @@
 
 <p align="center">Love the project? Please consider <a href="https://www.paypal.me/AlexandreSAfonso">donating</a> to help it improve!</p>
 
-<img src="https://github.githubassets.com/images/modules/profile/achievements/pull-shark-default.png" data-hovercard-type="achievement" data-hovercard-url="/users/AlexandreSAfonso/achievements/pull-shark/detail?hovercard=1" width="64" alt="Achievement: Pull Shark" data-view-component="true" class="achievement-badge-sidebar">
+
 
 Are you considering supporting the project by donating? Please DO NOT!!
 
 Visit <https://casasandreluiz.org.br/> and make a small donation to help us fight to overcome adversity. A small donation goes a long way. :heart:
 </p>
+<p>
+<div></div>
+</p>
+<p>
+<div></div>
+</p>
+<div>
+Links da aula GitHub disponibilizada por Dev em Dobro
 
+GitHub Readme status https://github.com/anuraghazra/github-readme-stats
 
-Links da aula
+Site pra colocar os ícones das linguagens de programação no Readme https://devicon.dev/
 
-GitHub
-https://github.com
+Site pra colocar os ícones das redes sociais no Readme https://shields.io/
 
-
-GitHub Readme status
-https://github.com/anuraghazra/github...
-
-
-Site pra colocar os ícones das linguagens de programação no Readme
-https://devicon.dev/
-
-
-Site pra colocar os ícones das redes sociais no Readme
-https://shields.io/
-
-
-Código da cobrinha do nosso repositório pra você copiar e colar no seu
-https://github.com/devemdobro/devemdo...
-
-Código README perfil do Dev em Dobro
-https://raw.githubusercontent.com/dev...
-
+Código da cobrinha do nosso repositório pra você copiar e colar no seu https://github.com/devemdobro/devemdobro/blob/main/.github/workflows/cobrinha.yml
+</div>
