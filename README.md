@@ -110,9 +110,11 @@ Links da aula GitHub disponibilizada por Dev em Dobro
 
 GitHub Readme status https://github.com/anuraghazra/github-readme-stats
 
+
 Site pra colocar os ícones das linguagens de programação no Readme https://devicon.dev/
 
 Site pra colocar os ícones das redes sociais no Readme https://shields.io/
 
 Código da cobrinha do nosso repositório pra você copiar e colar no seu https://github.com/devemdobro/devemdobro/blob/main/.github/workflows/cobrinha.yml
 </div>
+
