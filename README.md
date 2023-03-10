@@ -103,3 +103,27 @@ Visit <https://casasandreluiz.org.br/> and make a small donation to help us figh
 </p>
 
 
+Links da aula
+
+GitHub
+https://github.com
+
+
+GitHub Readme status
+https://github.com/anuraghazra/github...
+
+
+Site pra colocar os ícones das linguagens de programação no Readme
+https://devicon.dev/
+
+
+Site pra colocar os ícones das redes sociais no Readme
+https://shields.io/
+
+
+Código da cobrinha do nosso repositório pra você copiar e colar no seu
+https://github.com/devemdobro/devemdo...
+
+Código README perfil do Dev em Dobro
+https://raw.githubusercontent.com/dev...
+
