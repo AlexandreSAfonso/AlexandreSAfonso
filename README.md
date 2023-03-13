@@ -1,6 +1,8 @@
 
  <div>
   <a href="https://github.com/AlexandreSAfonso">
+   <img height="180em" src="https://git-stats-40n1lywaj-alexandresafonso.vercel.app/api?username=AlexandreSAfonso&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true true"/>
+   
   <img height="180em" src="https://git-stats-40n1lywaj-alexandresafonso.vercel.app
 /api?username=AlexandreSAfonso&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
    
