@@ -1,8 +1,10 @@
 
  <div>
   <a href="https://github.com/AlexandreSAfonso">
-  <img height="180em" src="github-readme-stats-git-master-alexandresafonso.vercel.app/api?username=AlexandreSAfonso&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="github-readme-stats-git-master-alexandresafonso.vercel.app/api/top-langs/?username=AlexandreSAfonso&layout=compact&langs_count=6&theme=tokyonight"/>
+  <img height="180em" src="master-git-main-alexandresafonso.vercel.app
+/api?username=AlexandreSAfonso&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
+  <img height="180em" src="master-git-main-alexandresafonso.vercel.app
+/api/top-langs/?username=AlexandreSAfonso&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
 <div style="display: inline_block"><br>
