@@ -1,9 +1,9 @@
 
  <div>
   <a href="https://github.com/AlexandreSAfonso">
-  <img height="180em" src="master-git-main-alexandresafonso.vercel.app
+  <img height="180em" src="git-stats-40n1lywaj-alexandresafonso.vercel.app
 /api?username=AlexandreSAfonso&show_icons=true&theme=tokyonight&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="master-git-main-alexandresafonso.vercel.app
+  <img height="180em" src="git-stats-40n1lywaj-alexandresafonso.vercel.app
 /api/top-langs/?username=AlexandreSAfonso&layout=compact&langs_count=6&theme=tokyonight"/>
 </div>
 
